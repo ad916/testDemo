@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="6.0200" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-09-26T02:38:16" tests="0" file="cypress/integration/updateComputer.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Update computer" timestamp="2021-09-26T02:38:16" tests="1" time="6.0200" failures="0">
+    <testcase name="Update computer should be able to update computer record" time="6.0200" classname="should be able to update computer record">
+    </testcase>
+  </testsuite>
+</testsuites>

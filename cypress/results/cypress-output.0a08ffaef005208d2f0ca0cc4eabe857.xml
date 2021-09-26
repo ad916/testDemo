@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="6.7230" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-09-26T02:37:51" tests="0" file="cypress/integration/addComputer.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Add computer" timestamp="2021-09-26T02:37:51" tests="4" time="6.7230" failures="0">
+    <testcase name="Add computer should be able to add a new computer" time="2.2150" classname="should be able to add a new computer">
+    </testcase>
+    <testcase name="Add computer should be able to see error when introDate is greater then discont date" time="1.4790" classname="should be able to see error when introDate is greater then discont date">
+    </testcase>
+    <testcase name="Add computer should be able to see error when introduced date is illegal" time="1.4170" classname="should be able to see error when introduced date is illegal">
+    </testcase>
+    <testcase name="Add computer should be able to see error when discontinued date is illegal" time="1.6120" classname="should be able to see error when discontinued date is illegal">
+    </testcase>
+  </testsuite>
+</testsuites>

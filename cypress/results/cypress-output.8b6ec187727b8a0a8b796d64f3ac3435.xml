@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="3.2880" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-09-26T02:38:01" tests="0" file="cypress/integration/findComputer.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Find computer" timestamp="2021-09-26T02:38:01" tests="1" time="3.2880" failures="0">
+    <testcase name="Find computer should be able to find newly added computer" time="3.2880" classname="should be able to find newly added computer">
+    </testcase>
+  </testsuite>
+</testsuites>
