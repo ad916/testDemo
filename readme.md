@@ -24,5 +24,6 @@ findComputer.spec.js
 removeComputer.spec.js
 updateComputer.spec.js
 
-
+## Manual Test cases
+refer to testcases.xlsx attached. (Please find TABS inside the xls file.)
 
